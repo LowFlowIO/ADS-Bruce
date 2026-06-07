@@ -1,5 +1,7 @@
 # ADS-B Radar for Bruce JS
 
+![Demo](https://github.com/LowFlowIO/ADS-Bruce/blob/main/GIF_20260607_150426_117.gif)
+
 An offline-capable tactical ADS-B radar display script written for the **Bruce JS** firmware runtime environment on the **M5StickC Plus2**. It tracks, calculates, and visually maps live aircraft data around a specific geographic coordinate.
 
 ## Features
